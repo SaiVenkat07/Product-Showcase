@@ -1,0 +1,21 @@
+.product-details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 503px;
+  justify-content: space-around;
+}
+
+.product-image {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.product-description {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.product-company {
+  font-family: 'Open Sans', sans-serif;
+}
